@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NameWow/static/css/main.00caeaca.chunk.css",
+    "main.js": "/NameWow/static/js/main.b6c10f79.chunk.js",
+    "main.js.map": "/NameWow/static/js/main.b6c10f79.chunk.js.map",
+    "runtime-main.js": "/NameWow/static/js/runtime-main.7a4cddca.js",
+    "runtime-main.js.map": "/NameWow/static/js/runtime-main.7a4cddca.js.map",
+    "static/js/2.1e6841fb.chunk.js": "/NameWow/static/js/2.1e6841fb.chunk.js",
+    "static/js/2.1e6841fb.chunk.js.map": "/NameWow/static/js/2.1e6841fb.chunk.js.map",
+    "index.html": "/NameWow/index.html",
+    "static/css/main.00caeaca.chunk.css.map": "/NameWow/static/css/main.00caeaca.chunk.css.map",
+    "static/js/2.1e6841fb.chunk.js.LICENSE.txt": "/NameWow/static/js/2.1e6841fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4cddca.js",
+    "static/js/2.1e6841fb.chunk.js",
+    "static/css/main.00caeaca.chunk.css",
+    "static/js/main.b6c10f79.chunk.js"
+  ]
+}
