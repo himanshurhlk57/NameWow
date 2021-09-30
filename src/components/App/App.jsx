@@ -6,6 +6,11 @@ import './App.css';
 
 const name = require('@rstacruz/startup-name-generator');
 
+const appFun = (e) => {
+    console.log('app.jsx has been called');
+    console.log('app.jsx has been executing');
+}
+
 class App extends React.Component {
     constructor() {
         super();
@@ -18,6 +23,7 @@ class App extends React.Component {
     }
 
     handleInputChange = (inputText) => {
+        appFun();
         this.setState({
             headerExpanded: !inputText,
             suggestedNames: inputText ? name(inputText) : [],
